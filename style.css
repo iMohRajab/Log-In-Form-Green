@@ -1,0 +1,34 @@
+body{background-color: #86BF67}
+/* Main Form (White) */
+form{margin:20px auto;width:350px;background-color:#FFFFFF;border-radius:5px;margin-top: 150px;padding:30px;font-family: "Roboto", sans-serif;font-size: 14px;}
+/* End */
+
+/* Form Two Inputs + The Button */
+form input[type="text"],[type="password"],[type="button"]{width: 100%;margin-bottom: 13px;padding:10px;font-weight: lighter;}
+/* End */
+
+/* User Name Input Only */
+form input[type="text"]{margin-top: 20px;background-color: #F2F2F2;border: none;}
+/* End */
+
+/* Password Input Only */
+form input[type="password"]{background-color: #F2F2F2;border: none}
+/* End */
+
+/* Button */
+form input[type="button"]{background-color: #4CAF50;text-transform: uppercase;color: #FFF;font-weight: lighter;}
+/* End */
+
+/* Gray Text Only */
+.txt h6{color: #B6B6B6;text-align: center;font-weight: lighter}
+/* End */
+
+/* Green Part From The Full Gray Text */
+.txt span{color: #54B359}
+/* End */
+
+/* Start Roles */
+
+*{box-sizing: border-box;}
+
+/* End Roles */
